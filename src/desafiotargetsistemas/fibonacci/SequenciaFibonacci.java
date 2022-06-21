@@ -5,9 +5,15 @@ public class SequenciaFibonacci {
 	public static void main(String[] args) {
 		
 	
+<<<<<<< HEAD
 		 	int n1 = 1;
 		 	int n2 = 0;
 		 	int verificadorDeFibonnaci = 13;
+=======
+		int n1 = 1;
+	     	int n2 = 0;
+	     	int verificadorDeFibonnaci = 13;
+>>>>>>> aba86afe8352541440ebd6cddba6960d66215320
 	     
 	     
 	        System.out.println(n2);
@@ -23,7 +29,11 @@ public class SequenciaFibonacci {
 	        	 System.out.println(verificadorDeFibonnaci + " é um número Fibonnaci!");
 	         }
 	           
+<<<<<<< HEAD
 	     }
+=======
+	      }
+>>>>>>> aba86afe8352541440ebd6cddba6960d66215320
 	}
 
 }
